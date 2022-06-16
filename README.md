@@ -3,4 +3,4 @@ This is a repository for a course that aims to introduce SQL with a focus on per
 ## Target Language
 This course is made in my native language, Brazilian portuguese.
 ## Where Buy The Course?
-The course is currently hosted in Udemy, and can be buyed by [this link](https://www.udemy.com/pt/)
+The course is currently hosted in Udemy, and can be buyed by [this link](https://www.udemy.com/course/guia-pratico-de-sql-para-ciencia-de-dados/)
