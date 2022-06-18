@@ -1,2 +1,3 @@
 Aulas/* linguist-documentation=false
-Aulas/* linguist-vendored
+Aulas/* linguist-detectable
+*.sql linguist-language=SQL
